@@ -1,3 +1,5 @@
- for(var i=1; i<=4; i++){
-       console.log("* ".repeat(i));
-    }
+ str="";
+for(i=0;i<5;i=i+1){
+  str+="*";
+}
+console.log(str);
